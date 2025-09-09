@@ -1,3 +1,4 @@
+
 # Mega C Programming Demo 🚀
  
 This repository contains a **mega C program** (`All_In_One.c`) that demonstrates 
@@ -30,3 +31,7 @@ It is designed as an educational project to help learners explore:
 ```bash
 gcc -o Mega_c_program Mega_c_program.c -pthread
 ./Mega_c_program
+=======
+# -Mega-C-program-with-menu-driven-style
+A comprehensive C language demo project covering system programming, algorithms, data structures, IPC mechanisms, device driver simulation (Task is Ongoing), and bitwise operations. Ideal for learning and testing core concepts in C.
+>>>>>>> 15725d47b9268c7eafb0955bd219a13cf7b64e84
